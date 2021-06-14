@@ -1,0 +1,11 @@
+﻿  main.cpp
+  String.cpp
+e:\wallet\wallet\string.cpp(28): warning C4018: '<': signed/unsigned mismatch
+e:\wallet\wallet\string.cpp(29): warning C4018: '<': signed/unsigned mismatch
+e:\wallet\wallet\string.cpp(61): warning C4018: '>': signed/unsigned mismatch
+  Vector.cpp
+  Wallet.cpp
+  Generating Code...
+e:\wallet\wallet\wallet.cpp(37): warning C4717: 'operator>>': recursive on all control paths, function will cause runtime stack overflow
+e:\wallet\wallet\wallet.cpp(27): warning C4715: 'CurrencyToString': not all control paths return a value
+  Wallet.vcxproj -> E:\Wallet\Debug\Wallet.exe
